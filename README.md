@@ -1,4 +1,3 @@
-# Java_Journey
 # Java Learning Journey 🚀
 
 This repository contains my daily Java practice programs, covering concepts from basics to advanced. The goal is to strengthen my understanding of Java, improve problem-solving skills, and build logical thinking.
